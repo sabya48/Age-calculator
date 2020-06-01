@@ -46,7 +46,8 @@
         android:textColor="#536dfe"
         android:textSize="25dp"
         tools:layout_editor_absoluteX="160dp"
-        tools:layout_editor_absoluteY="243dp" />
+        tools:layout_editor_absoluteY="243dp"
+        android:background="#37474f"/>
 
     <Button
         android:id="@+id/btnGetAge"
